@@ -1,3 +1,0 @@
-# Description
-
-Build a small “MVP Evaluator” Python script that takes a few of your personal project ideas (saved in a simple text or CSV file) and uses a free AI library to generate a short business viability overview, time estimate, and monetization angle for each idea. Store the AI-generated insights in a JSON or CSV for easy future reference so you can quickly assess which projects are worth pursuing. This practical task stays aligned with your coding focus, avoids costs or marketing, and offers real economic potential by helping you identify ideas worth deeper investment
